@@ -25,9 +25,3 @@ Les tables présentes en base :
 	'Article.find(x).likes'  tableau de toutes les instances du model Like correspondant à l'article x
 
 	'Category.find(x).name'  le nom de la Category x
-
-### La DreamTeam
-	Georges
-	Louis
-	Nicolas
-	Camille
